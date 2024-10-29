@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iniciar sesión</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PuntoVenta.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            background-image: url('../wwwroot/img/fondo_pantalla.jpg'); /* Cambia esto a la ruta de tu imagen */
+            background-size: cover; /* Para cubrir toda la pantalla */
+            background-position: center; /* Centrar la imagen */
+            height: 100vh; /* Asegurarse de que el body ocupe toda la altura */
+            margin: 0; /* Para quitar el margen predeterminado */
+    </style>
+</head>
+
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="border border-dark rounded p-4" style="width: 300px; background-color: blueviolet;">
+        <form id="loginForm" class="form-signin" onsubmit="event.preventDefault(); login();">
+            <div class="mb-3 text-center">
+                <label for="Email" class="form-label text-white">Correo Electrónico</label>
+                <input type="email" class="form-control" id="Email" name="email" required />
+            </div>
+            <div class="mb-3 text-center">
+                <label for="Contrasena" class="form-label text-white">Contraseña</label>
+                <input type="password" class="form-control" id="Contrasena" name="password" required />
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+            </div>
+        </form>
+
+        <div id="error-message" class="alert alert-danger mt-3" style="display: none;"></div>
+    </div>
+</div>
+
+<script>
+    async function login() {
+        const email = document.getElementById('Email').value;
+        const password = document.getElementById('Contrasena').value;
+
+        // Verificar que los valores no sean null
+        console.log('Email:', email);
+        console.log('Password:', password);
+
+        const response = await fetch('/Login/LoginUser', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ email, password }),
+        });
+
+        if (response.ok) {
+            const data = await response.json();
+            localStorage.setItem('token', data.token);
+            window.location.href = '/Home'; // Redirecciona a donde necesites
+        } else {
+            const errorMessage = await response.text();
+            document.getElementById('error-message').textContent = errorMessage;
+            document.getElementById('error-message').style.display = 'block';
+        }
+    }
+</script>
+

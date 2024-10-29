@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\models\\puntoventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\models\\puntoventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|d:\\devops\\asp.net\\puntoventa_v1\\puntoventa\\puntoventa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0AB4070-6797-4ABF-A92F-F72421BE2879}|PuntoVenta\\PuntoVenta.csproj|solutionrelative:puntoventa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PuntoVenta\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:54:45.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T20:47:38.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Program.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Program.cs",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Program.cs",
+              "RelativeToolTip": "PuntoVenta\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:22:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PuntoVentaContext.cs",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Models\\PuntoVentaContext.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Models\\PuntoVentaContext.cs",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Models\\PuntoVentaContext.cs",
+              "RelativeToolTip": "PuntoVenta\\Models\\PuntoVentaContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:10:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:57:25.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "PuntoVenta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "PuntoVenta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAIcLAAAAAAAAAAAnwJkLAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T02:08:25.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:52:19.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\appsettings.json",
+              "RelativeDocumentMoniker": "PuntoVenta\\appsettings.json",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\appsettings.json",
+              "RelativeToolTip": "PuntoVenta\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:55:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:49:32.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:29:47.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T18:05:41.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4fead55f-fd9e-4446-abf0-8fbdbfb27c59",
+        "Display": 1,
+        "X": 139,
+        "Y": 83,
+        "Width": 1167,
+        "Height": 642,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PuntoVenta\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAvwFMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:57:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "PuntoVenta\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:34:15.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PuntoVenta\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PuntoVenta\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:55:33.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e1d5353b-ee9e-4268-b14d-3e043627e52f",
+        "Display": 1,
+        "X": 178,
+        "Y": 146,
+        "Width": 1193,
+        "Height": 544,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PuntoVenta\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DevOps\\ASP.NET\\PuntoVenta_V1\\PuntoVenta\\PuntoVenta\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PuntoVenta\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:29:59.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
